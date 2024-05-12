@@ -65,6 +65,11 @@
     font-size: 22px;
 }
 
+/* edit */
+
+.container h2 {
+    font-size: 34px;
+}
 .container ul p {
     color: gray;
 }
